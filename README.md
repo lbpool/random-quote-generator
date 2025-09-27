@@ -1,15 +1,17 @@
-
 # Random Quote Generator 🎯
 
-A simple Python script that prints a random motivational quote.  
-Perfect as a beginner-friendly project for daily coding practice.
+A tiny, beginner-friendly Python script that prints a random motivational quote each time you run it.
 
 ## Features
-- Contains a list of motivational quotes
-- Prints a random quote each time you run it
-- Lightweight and easy to extend
+- Small list of motivational quotes included
+- Prints one random quote each execution
+- Easy to extend (add more quotes or load from JSON)
+
+## Requirements
+- Python 3.7+
 
 ## How to Run
 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/random-quote-generator.git
+
